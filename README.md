@@ -48,14 +48,16 @@ KodExplorer (http://kalcaddle.com/)
     [] In addition to drag and drop files to upload most browsers support ie8 below; recommend the use of chrome, 360, cheetah, uc, etc.
     [Folders] except ie10 less drag and drop upload, firefox most browsers support recommended chrome, 360, cheetah, uc, etc.
 
-! [] (Https://cloud.githubusercontent.com/assets/3761968/2583304/764f562a-b9cf-11e3-8e59-afdbdffc20eb.png)
 
-## Editor
-! [] (Https://cloud.githubusercontent.com/assets/3761968/2583309/7fd52f8a-b9cf-11e3-8052-b4f908fd5209.png)
+![](https://cloud.githubusercontent.com/assets/3761968/2583304/764f562a-b9cf-11e3-8e59-afdbdffc20eb.png)
+
+## editor
+![](https://cloud.githubusercontent.com/assets/3761968/2583309/7fd52f8a-b9cf-11e3-8052-b4f908fd5209.png)
 
 
-## Player
-! [] (Https://cloud.githubusercontent.com/assets/3761968/2583312/84462bf0-b9cf-11e3-8b00-96fb3fc1610e.png)
+## player
+![](https://cloud.githubusercontent.com/assets/3761968/2583312/84462bf0-b9cf-11e3-8b00-96fb3fc1610e.png)
 
-## Desktop
-! [] (Https://cloud.githubusercontent.com/assets/3761968/2583348/1b260572-b9d0-11e3-8f3e-3004dbbc63c9.png)
+## desktop
+![](https://cloud.githubusercontent.com/assets/3761968/2583348/1b260572-b9d0-11e3-8f3e-3004dbbc63c9.png)
+
